@@ -9,3 +9,6 @@ User Authentication: Secure login and registration functionality.
 Responsive Design: Works seamlessly across devices.
 
 Scalable Architecture: Easily extendable for more features.
+
+# Contributing
+Contributions are welcome! Feel free to fork this repository, improve the code, and submit a pull request.
