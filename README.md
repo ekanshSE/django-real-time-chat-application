@@ -3,6 +3,9 @@ A real-time chat application built with Django and WebSockets. This project demo
 
 # Features
 Real-Time Messaging: Instant communication using WebSockets.
+
 User Authentication: Secure login and registration functionality.
+
 Responsive Design: Works seamlessly across devices.
+
 Scalable Architecture: Easily extendable for more features.
